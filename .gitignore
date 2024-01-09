@@ -522,3 +522,4 @@ $RECYCLE.BIN/
 
 *.dSYM
 tasks.json
+.DS_Store
